@@ -2,6 +2,12 @@
 
 <p align="center">A simple toggle theme mode using HTML, CSS and JavaScript!</p>
 
+<p align="center">
+<a href="https://sonarcloud.io/dashboard?id=jmontejr_light-dark-mode">
+<img alt="Quality Gate Status" src="https://sonarcloud.io/api/project_badges/measure?project=jmontejr_light-dark-mode&metric=alert_status">
+</a>
+</p>
+
 <br>
 
 ## Table of contents
@@ -75,15 +81,15 @@ Go to the [top](#title).
 <p>Development with :heart:</p>
 <div>
     <a href="https://jmontejr.github.io">
-        <img src="https://img.shields.io/static/v1?label=website&message=jmontejr.github.io&color=ff416c&style=for-the-badge&logo=google-chrome"/>
+        <img src="https://img.shields.io/static/v1?label=website&message=jmontejr.github.io&color=9e58f9&style=for-the-badge&logo=google-chrome"/>
     </a>
     <space></space>
     <a href="https://www.linkedin.com/in/jmontejr">
-        <img src="https://img.shields.io/static/v1?label=linkedin&message=jmontejr&color=ff416c&style=for-the-badge&logo=linkedin"/>
+        <img src="https://img.shields.io/static/v1?label=linkedin&message=jmontejr&color=9e58f9&style=for-the-badge&logo=linkedin"/>
     </a>
     <space></space>
     <a href="https://codepen.io/jmontejr">
-        <img src="https://img.shields.io/static/v1?label=codepen&message=jmontejr&color=ff416c&style=for-the-badge&logo=codepen"/>
+        <img src="https://img.shields.io/static/v1?label=codepen&message=jmontejr&color=9e58f9&style=for-the-badge&logo=codepen"/>
     </a>
 </div>
 
