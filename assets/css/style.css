@@ -23,8 +23,8 @@ html {
 
 html,
 html *,
-html * ::before,
-html * ::after {
+html *::before,
+html *::after {
   box-sizing: border-box;
   transition: all 0.2s linear;
 }
