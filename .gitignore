@@ -1,0 +1,13 @@
+# macOS Files
+.DS_Store
+
+# IDE config
+.idea/
+.vscode/
+
+node_modules/
+
+# Log files
+logs/
+*.log
+!example.log
